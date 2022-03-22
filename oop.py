@@ -70,3 +70,4 @@ bulbasaur = Pokemon('Bulbasaur', 'grass', 1, 100, 10, 10, 10, 10, 10)
 
 pikachu.level_up()
 pikachu.attack_enemy(bulbasaur)
+print(pikachu == bulbasaur)
